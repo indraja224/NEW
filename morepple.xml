@@ -1,0 +1,5 @@
+<People>
+	<Person Name="Debra" County="Canada" IsAdmin="true" />
+	<Person Name="Jacob" Country="Israel" IsAdmin="true" />
+	<Person Name="Olivia" Country="Cyprus" IsAdmin="false" />
+</People>
